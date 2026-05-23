@@ -1,0 +1,10 @@
+{
+  "name": "Free Bass Visual Reactor",
+  "description": "An advanced sound-reactive cinematic video generator for music producers, creating stunning social-media content with frequency analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
